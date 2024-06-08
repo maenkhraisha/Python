@@ -1,0 +1,13 @@
+total 48
+drwxrwxr-x 9 maen maen 4096 Jun  6 16:46 .
+drwxrwxr-x 9 maen maen 4096 Jun  6 15:18 ..
+-rw-rw-r-- 1 maen maen   58 May 29 22:27 app.py
+drwxrwxr-x 3 maen maen 4096 Jun  6 01:53 ecommerce
+drwxrwxr-x 2 maen maen 4096 Jun  6 15:12 files_lib
+drwxrwxr-x 8 maen maen 4096 May 31 13:51 .git
+drwxrwxr-x 2 maen maen 4096 Jun  6 15:24 os_lib
+-rw-rw-r-- 1 maen maen  602 Jun  6 16:45 output.txt
+-rw-rw-r-- 1 maen maen    9 May 31 13:49 README.md
+drwxrwxr-x 3 maen maen 4096 Jun  6 01:55 requests_lib
+drwxrwxr-x 2 maen maen 4096 Jun  6 16:46 subprocess_lib
+drwxrwxr-x 2 maen maen 4096 May 31 14:54 URL_lib
